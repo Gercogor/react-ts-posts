@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-ts-posts/static/css/main.50d6de73.css",
+    "main.js": "/react-ts-posts/static/js/main.8383a1df.js",
+    "static/media/Vector.svg": "/react-ts-posts/static/media/Vector.42a69f6c4dc27bbf7c00.svg",
+    "index.html": "/react-ts-posts/index.html",
+    "main.50d6de73.css.map": "/react-ts-posts/static/css/main.50d6de73.css.map",
+    "main.8383a1df.js.map": "/react-ts-posts/static/js/main.8383a1df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50d6de73.css",
+    "static/js/main.8383a1df.js"
+  ]
+}
