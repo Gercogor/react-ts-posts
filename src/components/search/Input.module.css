@@ -3,7 +3,8 @@
 }
 .searchInput {
     background: #5A5C66;
-    width: 440px;
+    max-width: 440px;
+    width: 100vw;
     height: 18px;
     color: white;
     padding: 18px 60px 15px 26px;
@@ -11,6 +12,13 @@
     border: none;
     outline: 0;
     background-image: url('./Vector.svg');   
-    background-repeat: no-repeat; /*Убираем повтор изображения*/   
-    background-position: center right 24px; /*Позиционируем*/   
+    background-repeat: no-repeat; 
+    background-position: center right 24px;
+}
+
+@media screen and (max-width: 767px) {
+    .searchInput {
+        width: 75vw;
+        padding: 10px 60px 8px 26px;
+    }
 }

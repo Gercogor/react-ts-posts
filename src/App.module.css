@@ -34,3 +34,15 @@ cursor: pointer;
 .activeLinkClassName {
   color: #7EBC3C;
 }
+
+@media screen and (max-width: 767px) {
+  .prevButton {
+    margin-right: 15px;
+  }
+  .nextButton {
+    margin-left: 15px;
+  }
+  .pagination {
+    padding: 0 10px 0 10px;
+  }
+}
