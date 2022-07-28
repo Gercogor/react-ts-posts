@@ -1,0 +1,14 @@
+.tableRow {
+    height: 90px;
+    font-size: 13px;
+}
+
+.tableCell {
+    border: 1px solid #E3E6EC;
+    text-align: center;
+}
+
+.textInCell {
+    text-align: left;
+    padding: 10px;
+}

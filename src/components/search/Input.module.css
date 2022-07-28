@@ -1,0 +1,16 @@
+.searchInputWrapper {
+    margin: 15px 2px;
+}
+.searchInput {
+    background: #5A5C66;
+    width: 440px;
+    height: 18px;
+    color: white;
+    padding: 18px 60px 15px 26px;
+    font-size: 14px;
+    border: none;
+    outline: 0;
+    background-image: url('./Vector.svg');   
+    background-repeat: no-repeat; /*Убираем повтор изображения*/   
+    background-position: center right 24px; /*Позиционируем*/   
+}

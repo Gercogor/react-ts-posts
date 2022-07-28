@@ -1,0 +1,36 @@
+.App {
+  max-width: 1080px;
+  margin: 0 auto;
+}
+
+.pagination {
+  max-width: 1077px;
+  font-size: 18px;
+  padding: 0 20px 0 40px;
+  display: flex;
+  list-style-type: none;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.pagination>li {
+cursor: pointer;
+}
+
+.prevButton {
+  font-size: 24px;
+  margin-right: 200px;
+}
+
+.nextButton {
+  font-size: 24px;
+  margin-left: 200px;
+}
+
+.pages{
+  font-style: italic;
+}
+
+.activeLinkClassName {
+  color: #7EBC3C;
+}
